@@ -1,7 +1,7 @@
 - 👋 S'gon on? My mates call me Schnitty. Crumbed chicken is an Australian delicasy and also it rhymes with my surname. 
 - 👀 I’m interested in crafting solutions to people's problems. 
-- 🌱 I’m learning programming (Python), designing and printing in 3D (Rhino 8), and electronics. 
-- 💞️ I’m looking to collaborate on IoT or web-based projects.
+- 🌱 I like C and Python, designing and printing in 3D (Rhino 8/ Fusion), and electronics. 
+- 💞️ Building IoT and web-based projects are my thing.
 - 📫 You can send me a message on Git or email me at jschneider.qut@gmail.com
 
 <!---
